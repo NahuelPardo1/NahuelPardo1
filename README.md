@@ -5,7 +5,7 @@
 
 - 📫 Para contactarme **Nahuelpardo3@gmail.com**
 
-- ⚡ Fun fact **Soy una persona amigable, divertida y perseverante.**
+- ⚡ Fun fact **Soy una persona divertida y perseverante.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
