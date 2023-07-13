@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Nahuel Pardo</h1>
-<h3 align="center">Apasionado frontend developer de Argentina</h3>
+<h3 align="center">Front-End Developer de Argentina</h3>
 
 - 🌱 Actualmente estoy aprendiendo **React**
 
