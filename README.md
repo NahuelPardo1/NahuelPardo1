@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Nahuel Pardo</h1>
 <h3 align="center">Front-End Developer Argentino</h3>
 
-- 🌱 Actualmente estoy aprendiendo **React**
+- 🌱 Actualmente estoy aprendiendo **Node js**
 
 - 📫 Para contactarme **Nahuelpardo3@gmail.com**
 
@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@nahupardo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nahupardo_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nahuelpardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahuelpardo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nahuelpardo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nahuelpardo/" height="30" width="40" /></a>
 <a href="https://instagram.com/@nahupardo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@nahupardo_" height="30" width="40" /></a>
 </p>
 
