@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 🌱 Actualmente estoy aprendiendo Node js<br><br>📫 Para contactarme Nahuelpardo3@gmail.com<br><br>⚡ Me considero una persona amigable, divertida y perseverante.
 
 
-## 🌐 Socials:
+## 🌐 Redes sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nahuu.pardo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nahuelpardo/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/nahupardo_) 
 
 # 💻 Tech Stack:
