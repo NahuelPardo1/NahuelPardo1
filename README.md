@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-🌱 Actualmente estoy aprendiendo Node js<br><br>📫 Para contactarme Nahuelpardo3@gmail.com<br><br>⚡ Me considero una persona amigable, divertida y perseverante.
+📫 Para contactarme Nahuelpardo3@gmail.com
 
 
 ## 🌐 Redes sociales:
