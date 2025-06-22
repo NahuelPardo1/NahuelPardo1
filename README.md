@@ -1,5 +1,7 @@
 # 💫 About Me:
-🌱 Actualmente estudiando .NET
+🌱 Estudiante de Licenciatura de Sistemas - UNLP 
+👨‍💻 Todos mis proyectos estan acá o en mi <strong target="blank">[Portfolio!](https://portfolio-np.netlify.app/)</strong>
+📫 Queres contactarme? **nahuelpardo3@gmail.com**
 
 
 ## 🌐 Socials:
