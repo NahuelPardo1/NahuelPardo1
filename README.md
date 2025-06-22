@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1>Nahuel Pardo - Desarrollador Full Stack</h1>
 - 🌱 Estudiante de Licenciatura de Sistemas - UNLP 
 
 - 👨‍💻 Podes ver mis proyectos acá o en mi <strong target="blank">[Portfolio!](https://portfolio-np.netlify.app/)</strong>
