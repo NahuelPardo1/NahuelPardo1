@@ -4,7 +4,7 @@
 
 - 👨‍💻 Podes ver mis proyectos acá o en mi <strong target="blank">[Portfolio!](https://portfolio-np.netlify.app/)</strong>
 
-- 📫 Podes contactarme acá **nahuelpardo3@gmail.com**
+- 📫 Para contactarme → **nahuelpardo3@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nahuelpardo) 
