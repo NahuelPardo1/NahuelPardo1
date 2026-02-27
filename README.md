@@ -1,4 +1,4 @@
-<h1>Nahuel Pardo - Desarrollador Backend 🌊</h1>
+<h1>Nahuel Pardo - Desarrollador Full Stack 🌊</h1>
 
 - 🌱 Estudiante de Licenciatura de Sistemas - UNLP 
 
